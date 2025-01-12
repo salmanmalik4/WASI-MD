@@ -9,3 +9,4 @@ SESSION_ID: process.env.SESSION_ID || "Y28j0awL#NAWK6UT9DHcyCPXJqmHScJ-GblA1tbaR
 MONGODB: process.env.MONGODB || "mongodb+srv://Maher:Zubair@sigma-male.ggwx4gc.mongodb.net/?retryWrites=true&w=majority",
   MODE :  process.env.MODE || "", // PUT PUBLIC OR PRIVATE
 };
+Manu-MD&aN0GHJba#02zVed21XzUmn0Mb2PHuBvCG4DKwwlq9Il1SWjfS-7Q

@@ -10,7 +10,7 @@ function cmd(info, func) {
     if(!info.filename) data.filename = "Not Provided";
     commands.push(data);
     return data;
-}
+}Manu-MD&aN0GHJba#02zVed21XzUmn0Mb2PHuBvCG4DKwwlq9Il1SWjfS-7Q
 module.exports = {
     cmd,
     AddCommand:cmd,
